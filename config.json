@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrtringify",
+        "uuid": 11007587,
+        "checksum": "u3dc1"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
